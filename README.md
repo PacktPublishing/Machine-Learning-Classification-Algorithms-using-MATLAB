@@ -3,18 +3,20 @@ This is the code repository for [Machine Learning Classification Algorithms usin
 ## About the Video Course
 This course is designed to cover one of the most interesting areas of machine learning called classification. I will take you step-by-step in this course and will first cover the basics of MATLAB. Following that we will look into the details of how to use different machine learning algorithms using MATLAB. Specifically, we will be looking at the MATLAB toolbox called statistic and machine learning toolbox. We will implement some of the most commonly used classification algorithms such as K-Nearest Neighbor, Naive Bayes, Discriminant Analysis, Decision Tress, Support Vector Machines, Error Correcting Output Codes and Ensembles. Following that we will be looking at how to cross validate these models and how to evaluate their performances. Intuition into the classification algorithms is also included so that a person with no mathematical background can still comprehend the essential ideas. The following are the course outlines.
 
-Segment 1: Instructor and Course Introduction
-Segment 2: MATLAB Crash Course
-Segment 3: Grabbing and Importing Dataset
-Segment 4: K-Nearest Neighbor
-Segment 5: Naive Bayes
-Segment 6: Decision Trees
-Segment 7: Discriminant Analysis
-Segment 8: Support Vector Machines 
-Segment 9: Error Correcting Output Codes 
-Segment 10: Classification with Ensembles 
-Segment 11: Validation Methods
-Segment 12: Evaluating Performance
+<ul>
+<li>Segment 1: Instructor and Course Introduction</li>
+<li>Segment 2: MATLAB Crash Course</li>
+<li>Segment 3: Grabbing and Importing Dataset</li>
+<li>Segment 4: K-Nearest Neighbor</li>
+<li>Segment 5: Naive Bayes</li>
+<li>Segment 6: Decision Trees</li>
+<li>Segment 7: Discriminant Analysis</li>
+<li>Segment 8: Support Vector Machines </li>
+<li>Segment 9: Error Correcting Output Codes </li>
+<li>Segment 10: Classification with Ensembles </li>
+<li>Segment 11: Validation Methods</li>
+<li>Segment 12: Evaluating Performance</li>
+</ul>
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
